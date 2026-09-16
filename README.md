@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Visit-unjadedatx.com-255F38?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.unjadedatx.com)
 
-This repository contains the official code for **(un)Jaded**, a student organization at the University of Texas at Austin focused on mental health and social advocacy.
+This repository contains the official code for **(un)Jaded**, a student organization at the University of Texas at Austin focused on mental health and social advocacy, for Fall 2025 - Spring 2026
 
 ## 🌱 About (un)Jaded
 (un)Jaded is a mental health and service organization intended to destigmatize mental health and encourage social advocacy amongst the AAPI community. (un)Jaded recognizes the need for a culturally aware space that is committed to celebrating Asian identities, addressing intersectional issues, and promoting greater community involvement. Membership is open to self-identified Asians, Pacific Islanders, Asian Americans, and allies attending the University of Texas at Austin.
